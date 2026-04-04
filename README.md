@@ -11,7 +11,7 @@ This project demonstrates how multiple owners can collectively manage funds by r
 * Multiple wallet owners
 * Submit transactions
 * Approve transactions
-* Execute transactions after required approvals
+* Execute transactions after required approvals  
 
 ---
 
