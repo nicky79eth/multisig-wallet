@@ -2,7 +2,7 @@
 
 A simple multisignature wallet smart contract built with Solidity and Hardhat.
 
-This project demonstrates how multiple owners can collectively manage funds by requiring a minimum number of approvals before executing a transaction.
+This project demonstrates how multiple owners can collectively manage funds by requiring a minimum number of approvals before executing a transaction. 
 
 ---
 
