@@ -55,7 +55,7 @@ git clone https://github.com/your-username/multisig-wallet.git
 cd multisig-wallet
 ```
 
-Install dependencies
+Install dependencies 
 
 ```
 npm install
