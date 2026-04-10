@@ -8,8 +8,8 @@ This project demonstrates how multiple owners can collectively manage funds by r
 
 ## Features
 
-* Multiple wallet owners
-* Submit transactions
+* Multiple wallet owners.
+* Submit transactions.
 * Approve transactions.
 * Execute transactions after required approvals.
 
