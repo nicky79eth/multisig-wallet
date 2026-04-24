@@ -92,7 +92,7 @@ npx hardhat run scripts/deploy.js --network localhost
 * Transaction event logs.
 * Owner management (add/remove owners).
 * Frontend interface for transaction approvals.
-* Gas optimization
+* Gas optimization.
 
 ---
 
